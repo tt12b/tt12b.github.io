@@ -1,0 +1,27 @@
+---
+layout: base 
+---
+
+<div class="about">
+  <div class="profile">
+    <img class="selfie" alt="{{ site.author.name }}" src="{{ site.author.selfie }}" />
+    <div class="info">
+      <div class="title"><h3 style="margin-block-start: 0.3em; margin-block-end: 0.3em;">{{ site.author.name }}</h3></div>
+      <div class="description">
+        <h4 style="font-size: 1rem; color: gray; margin-block-start: 0.1em; margin-block-end: 0.1em;">{{ site.author.desc }}</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="content">
+    {{ content }}
+    </br>
+    <div class="social-layer">
+      <div class="social-icons">
+        <ul>
+          {% include icons.html %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
