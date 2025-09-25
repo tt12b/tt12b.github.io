@@ -22,9 +22,6 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
 다른사람에게 인정받고 성과를 이루는 것에 아주 큰 가치를 두고 있습니다.
 
 ---
-
-
-
 <h1 style="color:#3399FF;">Skill</h1>
 <div style="display: flex; margin-bottom: 2rem;">
   <div style="width: 25%; padding-right: 1rem;">
@@ -126,6 +123,22 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
     </ul>
   </div>
 </div>
+
+---
+<h1 style="color:#3399FF;">Certifications</h1><div style="display: flex; margin-bottom: 2rem;">
+  <div style="width: 75%;">
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">컴퓨터 활용 2급</h4></li>
+    </ul>
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">정보처리기사</h4></li>
+    </ul>
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">SQLD</h4></li>
+    </ul>
+  </div>
+</div>
+
 ---
 <h1 style="color:#3399FF;">Career</h1>
 <!-- 울랄라랩 -->
@@ -136,7 +149,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
   <div style="width: 75%;">
     <div style="display: flex; align-items: flex-start; gap: 0.5rem;">
       <h3 style="margin: 0; line-height: 1.2;">(주)울랄라랩</h3>
-      <h6 style="background-color: #3399FF; color: white; padding: 0.1rem 0.3rem; border-radius: 12px; font-size: 0.65rem; margin: 0;">1년 8개월</h6>
+      <h6 style="background-color: #3399FF; color: white; padding: 0.1rem 0.3rem; border-radius: 12px; font-size: 0.65rem; margin: 0;">1년 10개월</h6>
     </div>
     <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em;">플랫폼 개발팀 / 선임 연구원</h4></div>
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
@@ -218,7 +231,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
 <!-- 이수페타시스 DT -->
 <div style="display: flex; margin-bottom: 2rem;">
   <div style="width: 25%; padding-right: 1rem;">
-    <h4 style="margin: 0; line-height: 1.2;">2025.03 ~ 2025.07(진행)</h4>
+    <h4 style="margin: 0; line-height: 1.2;">2025.03 ~ 2025.09</h4>
     <h5 style="margin: 0; line-height: 1.2;">울랄라랩 고객사 프로젝트 </h5>
   </div>
   <div style="width: 75%;">
