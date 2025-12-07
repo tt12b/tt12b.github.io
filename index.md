@@ -57,7 +57,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
 <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">ORACLE</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MySQL</h5></li>
-  <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MSSQLL</h5></li>
+  <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MSSQL</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">InfluxDB2</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Redis</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MongoDB</h5></li>
