@@ -157,7 +157,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
     <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em;">플랫폼 개발팀 / 선임 연구원</h4></div>
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">소프트웨어 아키텍처/데이터베이스 설계 및 구축</h5></li>
-      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">클라우드 기반 소프트웨어 인프라 설계 및 구축</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">AWS 클라우드 기반 소프트웨어 인프라 설계 및 구축</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Modbus, Melsec, OPC-UA를 활용한 실시간 PLC 데이터 수집 및 대용량 처리</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">백엔드 로직 처리 및 RestFul API 개발</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">SpringDocs & OpenAPI 기반 자동 Swagger 문서화 시스템 구축</h5></li>
