@@ -136,6 +136,9 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">SQLD</h4></li>
     </ul>
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">AWS Certified Solutions Architect – Associate</h4></li>
+    </ul>
   </div>
 </div>
 
@@ -228,6 +231,23 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
     
 ---
 <h1 style="color:#3399FF;">Project</h1>
+<!-- 동성 화인텍 MES  -->
+<div style="display: flex; margin-bottom: 2rem;">
+  <div style="width: 25%; padding-right: 1rem;">
+    <h4 style="margin: 0; line-height: 1.2;">2025.09 ~ 2025.12</h4>
+    <h5 style="margin: 0; line-height: 1.2;">울랄라랩 고객사 프로젝트</h5>
+  </div>
+  <div style="width: 75%;">
+    <div style="display: flex; align-items: flex-start; gap: 0.5rem;">
+      <h3 style="margin: 0; line-height: 1.2;">동성화인텍 MES 2차</h3>
+    </div>
+    <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em; color:gray;">->동성 화인텍 생산관리 시스템 - 통영</h4></div>
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Modbus / Melsec 통신을 통한 실시간/대용량 데이터 수집 모듈 개발</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">고객사 레거시 ,신규 수집 데이터 연계를 통한 데이터셋 구축</h5></li>
+    </ul>
+  </div>
+</div>
 <!-- 이수페타시스 DT -->
 <div style="display: flex; margin-bottom: 2rem;">
   <div style="width: 25%; padding-right: 1rem;">
@@ -312,7 +332,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
 <!-- 세일즈  -->
 <div style="display: flex; margin-bottom: 2rem;">
   <div style="width: 25%; padding-right: 1rem;">
-    <h4 style="margin: 0; line-height: 1.2;">2023.10 ~ 진행 중</h4>
+    <h4 style="margin: 0; line-height: 1.2;">2023.10 ~ 2025.12</h4>
     <h5 style="margin: 0; line-height: 1.2;">울랄라랩 자사 서비스</h5>
   </div>
   <div style="width: 75%;">
@@ -334,7 +354,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
 <!-- 해썹  -->
 <div style="display: flex; margin-bottom: 2rem;">
   <div style="width: 25%; padding-right: 1rem;">
-    <h4 style="margin: 0; line-height: 1.2;">2023.08 ~ 진행 중</h4>
+    <h4 style="margin: 0; line-height: 1.2;">2023.08 ~ 2025.12</h4>
     <h5 style="margin: 0; line-height: 1.2;">울랄라랩 고객사 프로젝트</h5>
   </div>
   <div style="width: 75%;">
