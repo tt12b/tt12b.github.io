@@ -4,22 +4,17 @@ layout: about
 
 <h1 style="color:#3399FF;">About Me</h1>
 
-서비스 및 어플리케이션 기획을 통해 IT 분야에 첫발을 디딘 이후,
-개발에 대한 깊은 흥미를 느껴 백엔드/서버 개발자로서 새로운 길을 걷기 시작했습니다.
+서비스 및 애플리케이션 기획을 통해 IT 분야에 첫발을 디딘 이후, 개발에 대한 깊은 흥미를 느껴 백엔드/서버 개발자로서 새로운 길을 걷기 시작했습니다.
 
-시스템 운영 / 스마트 팩토리 / PLC(Modbus, Melsec) & SCADA 서버를 통한 데이터 수집 및 처리,
-MES, ERP 시스템 구축 등 다양한 프로젝트를 통해 실무 경험을 쌓았습니다.
-이 과정에서 프로젝트 리딩 및 아키텍처 설계 능력을 키워왔습니다.
+후원 · 결제 · 정산 관리 시스템, 스마트 팩토리 스마트 HACCP, MES, ERP 시스템 구축 등 다양한 프로젝트를 통해 대용량 트래픽 처리, 대규모 데이터 핸들링, 데이터 정합성, MSA 설계 등 실무 경험과 도메인 지식을 쌓았습니다.
 
-코드 품질 개선, 성능 최적화, 디자인 패턴 및 자동화에 깊은 관심을 가지고 있으며,
-DevOps 분야에도 지속적인 관심을 가지고 있습니다.
+클라우드, 디자인 패턴 및 자동화에 깊은 관심을 가지고 있으며, DevOps 분야에도 지속적으로 관심을 기울이고 있습니다.
 
-약 50명 규모의 동아리 창설 및 운영 경험이 있습니다.
-이 과정에서 리더십을 발휘하며 팀을 이끌고, 다양한 사람들과 원활한 소통을 이끌어냈습니다.
-이 경험을 통해 다양한 사람들과의 커뮤니케이션 능력을 자연스럽게 강화하였으며,
-협업을 이끌어가는 데 필요한 대인 관계 능력을 키워왔습니다.
+약 50명 규모의 동아리 창설 및 운영 경험이 있습니다. 이를 통해 협업을 이끌어가는 데 필요한 대인 관계 능력을 키워왔습니다.
 
-다른사람에게 인정받고 성과를 이루는 것에 아주 큰 가치를 두고 있습니다.
+저는 다른 사람에게 인정받고 성과를 이루는 것에 큰 가치를 두며, 팀과 조직에서 의미 있는 결과를 만들어가는 개발자가 되는 것을 목표로 하고 있습니다.
+
+
 
 ---
 <h1 style="color:#3399FF;">Skill</h1>
@@ -30,7 +25,8 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
   <div style="width: 75%;">
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Java</h4></li>
-      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">JavaScript</h4></li>
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Kotlin</h4></li>
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">C#</h4></li>
     </ul>
   </div>
 </div>
@@ -43,7 +39,6 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Spring Boot</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Spring Security</h4></li>
-      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">eGov</h4></li>
     </ul>
   </div>
 </div>
@@ -55,9 +50,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
   <div style="width: 75%;"
 >
 <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-  <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">ORACLE</h5></li>
-  <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MySQL</h5></li>
-  <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MSSQL</h5></li>
+  <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">RDB(Oracle/MySQL/MSSQL/PostgreSQL)</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">InfluxDB2</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Redis</h5></li>
   <li style="margin: 0 1rem 0 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MongoDB</h5></li>
@@ -77,6 +70,8 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Modbus</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Melsec</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">OPC UA</h4></li>
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">HTTP/REST</h4></li>
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MQTT</h4></li>
     </ul>
   </div>
 </div>
@@ -87,13 +82,11 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
   </div>
   <div style="width: 75%;">
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
-      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Linux-Ubuntu</h4></li>
-      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Docker</h4></li>
-      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Docker Compose</h4></li>
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Linux</h4></li>
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Docker & Docker Compose</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Jenkins</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Kafka</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">AWS</h4></li>
-      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">NCP</h4></li>
     </ul>
   </div>
 </div>
@@ -118,6 +111,7 @@ DevOps 분야에도 지속적인 관심을 가지고 있습니다.
   </div>
   <div style="width: 75%;">
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MSA</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Agile</h4></li>
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">DevOps</h4></li>
     </ul>
