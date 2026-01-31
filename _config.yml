@@ -9,7 +9,8 @@ author:
   name: 모영호
   desc: 웰컴 투 여웅 월드
   email: tt12b89@gmail.com
-  selfie: assets/img/profile.jpg
+#  selfie: assets/img/profile.jpg
+  selfie: assets/img/빡빡이영호.png
 
 # social
 social:
