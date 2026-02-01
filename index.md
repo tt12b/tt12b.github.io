@@ -238,6 +238,7 @@ layout: about
     <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em; color:gray;">->동성 화인텍 생산관리 시스템 - 통영</h4></div>
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Modbus / Melsec 통신을 통한 실시간/대용량 데이터 수집 모듈 개발</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">이벤트 기반 MSA 설계 및 구축</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">고객사 레거시 ,신규 수집 데이터 연계를 통한 데이터셋 구축</h5></li>
     </ul>
   </div>
@@ -257,6 +258,7 @@ layout: about
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">소프트웨어 아키텍쳐 및 DB 설계</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">SCADA 서버 OPC-UA/Modbus 통신을 통한 실시간 PLC 데이터 수집 모듈 개발 </h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">InfluxDB기반의 대용량 데이터 처리/가공 모듈 개발</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">이벤트 기반 MSA 아키텍쳐 설계 및 구축</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">실시간 모니터링을 위한 RestFul API 개발</h5></li>
     </ul>
   </div>
@@ -277,6 +279,7 @@ layout: about
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">프로젝트 리딩 / 소프트웨어 아키텍쳐 및 DB 설계</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Influx -> RDB 데이터 가공 모듈 개발 </h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Influx 데이터 기반의 실시간 알람 기능 개발(이메일/알림톡)</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MQTT/Kafka 기반 기능 개발</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">백엔드/RestFul API 개발</h5></li>
     </ul>
   </div>
@@ -295,7 +298,7 @@ layout: about
     <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em;color:gray;">->화재 감지 모니터링 서비스</h4></div>
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">프로젝트 리딩 / 소프트웨어 아키텍쳐 및 DB 설계</h5></li>
-      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Kafka 기반의 알람 기능 개발</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">MQTT/Kafka 기반 기능 개발</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">백엔드/RestFul API 개발</h5></li>
     </ul>
   </div>
@@ -337,8 +340,8 @@ layout: about
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">어플리케이션 시작부터 끝까지 백엔드/인프라 설계 / 개발 </h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">클라우드를 통한 인프라 구축</h5></li>
-      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Spring Docs + Open API를 활용. 테스트 성공 시, API명세서(Swager) 자동 생성 프로세스 적립 </h5></li>
-      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">스웨거 자동셍성 프로세스를 서브 모듈로 통합, 사내 다른 프토젝트에서도 사용하도록 사내 문화 적립 </h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Spring Docs + Open API를 활용. 테스트 성공 시, OAS3.1 규격의 문서 자동 생성 프로세스 적립 </h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">스웨거 자동생성 프로세스를 서브 모듈로 통합, 사내 다른 프토젝트에서도 사용하도록 사내 문화 적립 </h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">마이크로스프트 Teams Webhook 및 AWS SES를 활용한 실시간 알림 기능 개발</h5></li>
       <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">NCP OCR을 활용한 명함 관리 기능 개발</h5></li>
     </ul>
