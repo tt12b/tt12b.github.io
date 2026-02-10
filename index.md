@@ -133,6 +133,9 @@ layout: about
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
       <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">AWS Certified Solutions Architect – Associate</h4></li>
     </ul>
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0 1rem; display: flex; gap: 1rem;">
+      <li style="margin: 0 1rem 0 0; line-height: 1;"><h4 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">AWS Certified DevOps Engineer - Professional</h4></li>
+    </ul>
   </div>
 </div>
 
