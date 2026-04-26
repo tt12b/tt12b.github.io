@@ -169,7 +169,7 @@ AWS 기반 환경에서 백엔드 서비스를 개발·운영하며 확장성과
   <div style="width: 75%;">
     <div style="display: flex; align-items: flex-start; gap: 0.5rem;">
       <h3 style="margin: 0; line-height: 1.2;">(주)울랄라랩</h3>
-      <h6 style="background-color: #3399FF; color: white; padding: 0.1rem 0.3rem; border-radius: 12px; font-size: 0.65rem; margin: 0;">2년 5개월</h6>
+      <h6 style="background-color: #B0B0B0; color: white; padding: 0.1rem 0.3rem; border-radius: 12px; font-size: 0.65rem; margin: 0;">2년 5개월</h6>
     </div>
     <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em;">플랫폼 개발팀 / 선임 연구원</h4></div>
     <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
