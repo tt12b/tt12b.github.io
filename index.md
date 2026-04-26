@@ -4,15 +4,17 @@ layout: about
 
 <h1 style="color:#3399FF;">About Me</h1>
 
-서비스 및 애플리케이션 기획을 통해 IT 분야에 첫발을 디딘 이후, 개발에 대한 깊은 흥미를 느껴 백엔드/서버 개발자로서 새로운 길을 걷기 시작했습니다.
+대규모 데이터 파이프라인 구축과 MSA 기반 서비스 아키텍처 설계 경험을 보유한 7년 차 백엔드 엔지니어입니다.
 
-후원 · 결제 · 정산 관리 시스템, 스마트 팩토리 스마트 HACCP, MES, ERP 시스템 구축 등 다양한 프로젝트를 통해 대용량 트래픽 처리, 대규모 데이터 핸들링, 데이터 정합성, MSA 설계 등 실무 경험과 도메인 지식을 쌓았습니다.
+후원/정산 관리 시스템, 스마트 팩토리, MES, ERP 구축 경험을 통해 정산, 집계, 배치 처리 등 데이터
+정합성이 중요한 도메인을 다뤄왔으며, 대량 거래 데이터 처리와 안정적인 데이터 흐름 설계 역량을
+갖추고 있습니다.
 
-클라우드, 디자인 패턴 및 자동화에 깊은 관심을 가지고 있으며, DevOps 분야에도 지속적으로 관심을 기울이고 있습니다.
+레거시 시스템을 분석하고 MSA 기반으로 점진적으로 개선한 경험이 있으며, 확장성과 정합성을 동시에
+고려한 아키텍처 설계를 지향합니다.
 
-약 50명 규모의 동아리 창설 및 운영 경험이 있습니다. 이를 통해 협업을 이끌어가는 데 필요한 대인 관계 능력을 키워왔습니다.
-
-저는 다른 사람에게 인정받고 성과를 이루는 것에 큰 가치를 두며, 팀과 조직에서 의미 있는 결과를 만들어가는 개발자가 되는 것을 목표로 하고 있습니다.
+AWS 기반 환경에서 백엔드 서비스를 개발·운영하며 확장성과 안정성을 고려한 시스템 구축 경험을 보유하고
+있습니다.
 
 
 
@@ -141,6 +143,24 @@ layout: about
 
 ---
 <h1 style="color:#3399FF;">Career</h1>
+<!-- 메딧트 -->
+<div style="display: flex; margin-bottom: 2rem;">
+  <div style="width: 25%; padding-right: 1rem;">
+    <h4 style="margin: 0; line-height: 1.2;">2026.04 ~ 현재</h4>
+  </div>
+  <div style="width: 75%;">
+    <div style="display: flex; align-items: flex-start; gap: 0.5rem;">
+      <h3 style="margin: 0; line-height: 1.2;">메디트</h3>
+      <h6 style="background-color: #3399FF; color: white; padding: 0.1rem 0.3rem; border-radius: 12px; font-size: 0.65rem; margin: 0;">-</h6>
+    </div>
+    <div style="margin-bottom: 0.5rem; font-weight: bold;"><h4 style="margin-block-start: 0.83em; margin-block-end: 0.83em;">Cloud Engineering팀 / 소프트웨어 엔지니어</h4></div>
+    <ul style="margin-top: 0; margin-bottom: 1rem; padding: 0;">
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">Cloud 기반 서비스 개발</h5></li>
+      <li style="margin: 0; line-height: 1;"><h5 style="margin-block-start: 0.1em; margin-block-end: 0.1em; font-weight: normal;">DevOps</h5></li>
+    </ul>
+  </div>
+</div>
+
 <!-- 울랄라랩 -->
 <div style="display: flex; margin-bottom: 2rem;">
   <div style="width: 25%; padding-right: 1rem;">
